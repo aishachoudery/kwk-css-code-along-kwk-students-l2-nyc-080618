@@ -1,6 +1,7 @@
 /* add CSS class and element and selectors here */
 
 .example{
+  text-align:center;
   font-family: Verdana;
   color: white;
   text-decoration: underline;
